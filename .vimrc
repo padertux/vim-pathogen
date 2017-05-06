@@ -123,3 +123,6 @@ set number
 
 " get rid of delay when leaving insert mode
 set ttimeoutlen=0
+
+" enable copy/paste by mouse
+set mouse=r
