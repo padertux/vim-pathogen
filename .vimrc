@@ -126,3 +126,6 @@ set ttimeoutlen=0
 
 " enable copy/paste by mouse
 set mouse=r
+
+" configure crtlp
+set runtimepath^=~/.vim/bundle/ctrlp.vim
