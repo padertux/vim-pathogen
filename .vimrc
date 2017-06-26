@@ -129,3 +129,8 @@ set mouse=r
 
 " configure crtlp
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+" set location of files created by vim
+set backupdir=/tmp,.
+set directory=/tmp,.
+set undodir=/tmp,.
